@@ -1,0 +1,113 @@
+ 
+ 
+... bands 500,500 
+499 499 101000
+... [1] duration: 9470 ms
+WARNING: You are using single-threaded workstation garbage collection, which means that parallel programs cannot scale.  Please configure your program to use server garbage collection.
+499 499 101000
+... [1] duration: 7504 ms
+ 
+... bands 600,600 
+599 599 101000
+... [1] duration: 11299 ms
+WARNING: You are using single-threaded workstation garbage collection, which means that parallel programs cannot scale.  Please configure your program to use server garbage collection.
+599 599 101000
+... [1] duration: 7702 ms
+ 
+... bands 700,700 
+699 699 101000
+... [1] duration: 12258 ms
+WARNING: You are using single-threaded workstation garbage collection, which means that parallel programs cannot scale.  Please configure your program to use server garbage collection.
+699 699 101000
+... [1] duration: 8188 ms
+ 
+... bands 800,800 
+799 799 101000
+... [1] duration: 14116 ms
+WARNING: You are using single-threaded workstation garbage collection, which means that parallel programs cannot scale.  Please configure your program to use server garbage collection.
+799 799 101000
+... [1] duration: 9116 ms
+ 
+... bands 900,900 
+899 899 101000
+... [1] duration: 16262 ms
+WARNING: You are using single-threaded workstation garbage collection, which means that parallel programs cannot scale.  Please configure your program to use server garbage collection.
+899 899 101000
+... [1] duration: 9563 ms
+ 
+... bands 1000,1000 
+999 999 101000
+... [1] duration: 18279 ms
+WARNING: You are using single-threaded workstation garbage collection, which means that parallel programs cannot scale.  Please configure your program to use server garbage collection.
+999 999 101000
+... [1] duration: 10014 ms
+ 
+... bands 1100,1100 
+1099 1099 101000
+... [1] duration: 21073 ms
+WARNING: You are using single-threaded workstation garbage collection, which means that parallel programs cannot scale.  Please configure your program to use server garbage collection.
+1099 1099 101000
+... [1] duration: 11048 ms
+ 
+... bands 1200,1200 
+1199 1199 101000
+... [1] duration: 23270 ms
+WARNING: You are using single-threaded workstation garbage collection, which means that parallel programs cannot scale.  Please configure your program to use server garbage collection.
+1199 1199 101000
+... [1] duration: 11950 ms
+ 
+... bands 1300,1300 
+1299 1299 101000
+... [1] duration: 26544 ms
+WARNING: You are using single-threaded workstation garbage collection, which means that parallel programs cannot scale.  Please configure your program to use server garbage collection.
+1299 1299 101000
+... [1] duration: 12752 ms
+ 
+... bands 1400,1400 
+1399 1399 101000
+... [1] duration: 30476 ms
+WARNING: You are using single-threaded workstation garbage collection, which means that parallel programs cannot scale.  Please configure your program to use server garbage collection.
+1399 1399 101000
+... [1] duration: 13900 ms
+ 
+... bands 1500,1500 
+1499 1499 101000
+... [1] duration: 33907 ms
+WARNING: You are using single-threaded workstation garbage collection, which means that parallel programs cannot scale.  Please configure your program to use server garbage collection.
+1499 1499 101000
+... [1] duration: 14865 ms
+ 
+... bands 1600,1600 
+1599 1599 101000
+... [1] duration: 38473 ms
+WARNING: You are using single-threaded workstation garbage collection, which means that parallel programs cannot scale.  Please configure your program to use server garbage collection.
+1599 1599 101000
+... [1] duration: 16186 ms
+ 
+... bands 1700,1700 
+1699 1699 101000
+... [1] duration: 42817 ms
+WARNING: You are using single-threaded workstation garbage collection, which means that parallel programs cannot scale.  Please configure your program to use server garbage collection.
+1699 1699 101000
+... [1] duration: 17404 ms
+ 
+... bands 1800,1800 
+1799 1799 101000
+... [1] duration: 47461 ms
+WARNING: You are using single-threaded workstation garbage collection, which means that parallel programs cannot scale.  Please configure your program to use server garbage collection.
+1799 1799 101000
+... [1] duration: 18220 ms
+ 
+... bands 1900,1900 
+1899 1899 101000
+... [1] duration: 50992 ms
+WARNING: You are using single-threaded workstation garbage collection, which means that parallel programs cannot scale.  Please configure your program to use server garbage collection.
+1899 1899 101000
+... [1] duration: 19280 ms
+ 
+... bands 2000,2000 
+1999 1999 101000
+... [1] duration: 57066 ms
+WARNING: You are using single-threaded workstation garbage collection, which means that parallel programs cannot scale.  Please configure your program to use server garbage collection.
+1999 1999 101000
+... [1] duration: 20761 ms
